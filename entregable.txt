@@ -1,0 +1,18 @@
+Respuestas
+PASO 1
+
+La clase bg-dark es una clase de Bootstrap que coloca el fondo en color oscuro.
+El color hexadecimal del fondo es #212529.
+
+PASO 2
+
+La contraseña está oculta porque el input es de tipo "password".
+El navegador automáticamente reemplaza los caracteres por puntos o asteriscos.
+
+PASO 5
+
+1. El CSS debe agregarse dentro de la etiqueta <style> en el <head> o en un archivo externo .css enlazado al documento.
+
+2. Sí. Bootstrap incorpora clases utilitarias como bg-dark, btn-dark, bg-primary, etc., que permiten modificar estilos sin escribir CSS personalizado.
+
+3. Para cambiar el fondo por un video se puede usar la etiqueta <video> con position: fixed, width: 100%, height: 100% y object-fit: cover en CSS.
